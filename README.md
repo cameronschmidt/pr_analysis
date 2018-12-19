@@ -1,2 +1,3 @@
-# pr_analysis
-PR analysis
+# PR analysis
+
+Pull request analysis repository for SonarQube PRs
