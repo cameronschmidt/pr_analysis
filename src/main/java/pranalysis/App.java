@@ -10,6 +10,7 @@ public class App
     		// TODO fix this too..
     		int j = 5 / i;
     	}
+      // TODO - fix this loop
       for (int k = 0; k < 10; k--)
       {
         System.out.println("In a loop!");
