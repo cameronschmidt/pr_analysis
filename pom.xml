@@ -2,12 +2,12 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.example.cameronschmidt</groupId>
+  <groupId>com.example.cameronschmidt.pr_analysis</groupId>
   <artifactId>pranalysis</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>PR Testing SonarQube 7.7+</name>
+  <name>PR Testing SonarQube 7.7+ New</name>
   <url>http://maven.apache.org</url>
 
   <properties>
